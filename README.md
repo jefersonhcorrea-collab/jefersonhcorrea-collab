@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Jeferson Corrêa</h1>
+<h1 align="center">Olá, sou o Jeferson</h1>
 <h3 align="center">Desenvolvedor FullStack | Java • Node • React</h3>
 
 <p align="center">
