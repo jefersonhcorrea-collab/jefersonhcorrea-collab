@@ -8,9 +8,9 @@
   <a href="https://github.com/jefersonhcorrea-collab">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="jefersonhcorrea@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:jeferson@email.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -52,9 +52,3 @@
 - Bootcamp Desenvolvedor JavaScript FullStack
   
 ---
-
-## GitHub Stats
-
-<p align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
-</p>
