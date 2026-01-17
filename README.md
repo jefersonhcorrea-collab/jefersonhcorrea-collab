@@ -19,7 +19,7 @@
 
 <p style="font-family: sans-serif;">
   Desenvolvedor em formação, com background sólido em análise de processos, lógica e resolução de problemas em ambientes de alta demanda. 
-  Atuo no desenvolvimento de aplicações backend com JavaScript, TypeScript e NestJS, com foco em APIs REST, organização de código e boas práticas.
+  Atuo no desenvolvimento de aplicações backend e frontand com JavaScript, TypeScript, NestJS e React, com foco em APIs REST, organização de código e boas práticas.
 </p>
 
 ## Tecnologias & Ferramentas
