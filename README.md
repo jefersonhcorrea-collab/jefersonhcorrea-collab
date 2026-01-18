@@ -5,10 +5,7 @@
   <a href="https://www.linkedin.com/in/jeferson-correa-094969131">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/jefersonhcorrea-collab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-<a href="mailto:jeferson@email.com">
+ <a href="mailto:jeferson@email.com">
  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
