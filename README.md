@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou o Jeferson</h1>
-<h3 align="center">Desenvolvedor FullStack | Java • Node • React</h3>
+<h3 align="center">Desenvolvedor FullStack | JavaScript • NodeJS • React</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeferson-correa-094969131">
